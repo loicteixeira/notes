@@ -3,3 +3,6 @@
 
 # But not .gitignore
 !.gitignore
+
+# Nor these folders
+!Conferences/
