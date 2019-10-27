@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/VtFHxU_IYLA
+videos:
+- https://youtu.be/VtFHxU_IYLA
 speaker: Claudio Contin
 ---
 

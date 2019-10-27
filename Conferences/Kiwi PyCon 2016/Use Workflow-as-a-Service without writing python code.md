@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/pLV_JQVTn2g
+videos:
+- https://youtu.be/pLV_JQVTn2g
 ---
 
 # Use Workflow-as-a-Service without writing python code

@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/D80XFVNCGLM
+videos:
+- https://youtu.be/D80XFVNCGLM
 ---
 
 # Making the web go fast with jelly snakes and raspberry twizzlers

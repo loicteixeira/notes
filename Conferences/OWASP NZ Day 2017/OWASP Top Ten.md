@@ -1,5 +1,6 @@
 ---
-speaker: Kevin Alcock
+speakers:
+- Kevin Alcock
 ---
 
 # OWASP Top Ten (2017 Draft)

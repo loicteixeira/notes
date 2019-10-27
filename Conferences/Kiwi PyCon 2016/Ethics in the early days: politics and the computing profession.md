@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/NzjuhUOejNs
+videos:
+- https://youtu.be/NzjuhUOejNs
 ---
 
 # Ethics in the early days: politics and the computing profession

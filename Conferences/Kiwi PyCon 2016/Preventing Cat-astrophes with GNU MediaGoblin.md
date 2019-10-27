@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/RLBaoMYnSuY
+videos:
+- https://youtu.be/RLBaoMYnSuY
 ---
 
 # Preventing Cat-astrophes with GNU MediaGoblin

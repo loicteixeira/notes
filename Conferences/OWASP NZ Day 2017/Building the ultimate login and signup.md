@@ -1,5 +1,6 @@
 ---
-speaker: Matt Cotterell
+speakers:
+- Matt Cotterell
 ---
 
 # Building the ultimate login and signup

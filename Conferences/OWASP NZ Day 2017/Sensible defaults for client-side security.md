@@ -1,5 +1,6 @@
 ---
-speaker: Jen Zajac
+speakers:
+- Jen Zajac
 ---
 
 # Sensible defaults for client-side security

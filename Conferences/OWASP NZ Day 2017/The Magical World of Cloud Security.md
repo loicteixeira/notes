@@ -1,6 +1,8 @@
 ---
-url: https://youtu.be/0C-winjhYSE
-speaker: Erica Anderson
+videos:
+- https://youtu.be/0C-winjhYSE
+speakers:
+- Erica Anderson
 ---
 
 # The Magical World of Cloud Security

@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/S-Le3PWHqZA
+videos:
+- https://youtu.be/S-Le3PWHqZA
 ---
 
 # Making sense of setup.py

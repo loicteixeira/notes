@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/Fmtofk8t2dg
+videos:
+- https://youtu.be/Fmtofk8t2dg
 ---
 
 # Leveraging Python to Automate GIS Processes and Provide Extended Analytical Capabilities

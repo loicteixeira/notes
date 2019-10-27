@@ -1,5 +1,6 @@
 ---
-speaker: Charlie Gavey
+speakers:
+- Charlie Gavey
 ---
 
 # Conscious Incompetence: Started from the bottom, now we're here

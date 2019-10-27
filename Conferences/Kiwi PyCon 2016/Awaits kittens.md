@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/RMdb9FWO4S4
+videos:
+- https://youtu.be/RMdb9FWO4S4
 ---
 
 # await kittens()

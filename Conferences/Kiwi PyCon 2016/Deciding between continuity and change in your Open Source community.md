@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/P0BOoOvago8
+videos:
+- https://youtu.be/P0BOoOvago8
 ---
 
 # Deciding between continuity and change in your Open Source community

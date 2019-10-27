@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/6x1uoakCAlU
+videos:
+- https://youtu.be/6x1uoakCAlU
 ---
 
 # More testing with fewer tests

@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/y_vwvqgRZK0
+videos:
+- https://youtu.be/y_vwvqgRZK0
 ---
 
 # Warpdrive, making Python web application deployment magically easy

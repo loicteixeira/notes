@@ -1,5 +1,6 @@
 ---
-speaker: Ruth McDavitt 
+speakers:
+- Ruth McDavitt
 ---
 
 # Hacking the Talent Pipeline

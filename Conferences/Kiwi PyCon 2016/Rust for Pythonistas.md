@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/bjHIOVvf208
+videos:
+- https://youtu.be/bjHIOVvf208
 ---
 
 # Rust for Pythonistas

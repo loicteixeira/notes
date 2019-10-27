@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/0J7NuKjBL7Y
+videos:
+- https://youtu.be/0J7NuKjBL7Y
 ---
 
 # SSL all the things

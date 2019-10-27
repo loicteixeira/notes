@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/hXIAA8F8aPE
+videos:
+- https://youtu.be/hXIAA8F8aPE
 ---
 
 # Middle-Out Python Development

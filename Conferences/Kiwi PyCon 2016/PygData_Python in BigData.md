@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/fxwmV1fQOiA
+videos:
+- https://youtu.be/fxwmV1fQOiA
 ---
 
 # PygData : Python in BigData

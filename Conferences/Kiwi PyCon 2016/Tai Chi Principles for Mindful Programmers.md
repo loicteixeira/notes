@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/Skt6hRErR7c
+videos:
+- https://youtu.be/Skt6hRErR7c
 ---
 
 # Tai Chi Principles for Mindful Programmers

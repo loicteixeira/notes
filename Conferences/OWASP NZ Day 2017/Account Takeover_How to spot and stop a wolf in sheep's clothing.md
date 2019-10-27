@@ -1,6 +1,8 @@
 ---
-url: https://youtu.be/TPR-Cke097U
-speaker: Nick Malcolm
+videos:
+- https://youtu.be/TPR-Cke097U
+speakers:
+- Nick Malcolm
 ---
 
 ## How to spot and stop a wolf in sheep's clothing (a.k.a Account Takeover)

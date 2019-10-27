@@ -1,5 +1,5 @@
 ---
-urls:
+videos:
   - https://youtu.be/fOrYeUaOez4
   - https://youtu.be/6tqu46jAt_s
 ---

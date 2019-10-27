@@ -1,5 +1,6 @@
 ---
-url: https://youtu.be/qVYmMtLjcAY
+videos:
+- https://youtu.be/qVYmMtLjcAY
 ---
 
 # Scientific Hooliganism - What we can learn from the first hack in history
