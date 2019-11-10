@@ -4,6 +4,8 @@ speakers:
 topics:
 - Music
 - Research
+videos:
+- https://www.youtube.com/watch?v=DklaYgf3VbE
 ---
 
 # La Guitare Lâg HyVibe

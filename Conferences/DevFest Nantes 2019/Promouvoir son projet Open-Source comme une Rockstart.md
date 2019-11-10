@@ -1,9 +1,13 @@
 ---
+slides:
+- https://speakerdeck.com/franckabgrall/comment-promouvoir-son-projet-open-source
 speakers:
 - Franck Abgrail
 - Thomas Betous
 topics:
 - Open-Source
+videos:
+- https://www.youtube.com/watch?v=wgp1H3NlSEo
 ---
 
 # Promouvoir son projet Open-Source comme une Rockstart

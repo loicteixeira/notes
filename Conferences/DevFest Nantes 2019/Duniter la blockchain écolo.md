@@ -1,9 +1,13 @@
 ---
+slides:
+- https://www.cloud-libre.eu/index.php/s/8mWCezfq9zgo4wB#pdfviewer
 speakers:
 - Adrien Lasselle
 - Bertrand Presles
 topics:
-- blockchain
+- Blockchain
+Videos:
+- https://www.youtube.com/watch?v=ewdqIoMGT5U
 ---
 
 # Duniter la blockchain écolo

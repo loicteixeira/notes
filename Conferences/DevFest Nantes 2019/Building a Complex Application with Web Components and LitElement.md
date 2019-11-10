@@ -3,6 +3,8 @@ speakers:
 - Justin Fagnani
 topics:
 - Web
+videos:
+- https://www.youtube.com/watch?v=x9YDQUJx2uw
 ---
 
 # Building a Complex Application with Web Components and LitElement

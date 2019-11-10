@@ -3,6 +3,8 @@ speakers:
 - Thomas Blaisot
 topics:
 - Authentication
+videos:
+- https://www.youtube.com/watch?v=taZ2rS-CjAs
 ---
 
 # WebAuthn : Le renouveau de l'authentification

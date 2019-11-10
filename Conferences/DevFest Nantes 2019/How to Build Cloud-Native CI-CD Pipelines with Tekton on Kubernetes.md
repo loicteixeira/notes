@@ -4,6 +4,8 @@ speakers:
 topics:
 - Cloud
 - DevOps
+videos:
+- https://www.youtube.com/watch?v=Bt-4LOkXJLU
 ---
 
 # How to Build Cloud-Native CI/CD Pipelines with Tekton on Kubernetes

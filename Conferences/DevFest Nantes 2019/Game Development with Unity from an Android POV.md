@@ -1,9 +1,13 @@
 ---
+slides:
+- https://speakerdeck.com/oleur/game-development-with-unity-from-an-android-point-of-view-at-devfestnantes
 speakers:
 - Julien Salvi
 topics:
 - Mobile
 - Game Development
+videos:
+- https://www.youtube.com/watch?v=G8q7UK3LZlM
 ---
 
 # Game Development with Unity from an Android Point of View

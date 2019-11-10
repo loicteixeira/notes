@@ -6,6 +6,8 @@ speaker:
 topics:
 - Accessibility
 - UX
+videos:
+- https://www.youtube.com/watch?v=29EpQDs0Td8
 ---
 
 # Au Delà Des Couleurs : Des Interfaces Adaptées Aux Daltonisme

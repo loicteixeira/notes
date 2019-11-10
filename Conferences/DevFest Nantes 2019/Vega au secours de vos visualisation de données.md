@@ -1,6 +1,8 @@
 ---
 speakers:
 - Chris Woodrow
+videos:
+- https://www.youtube.com/watch?v=GL9H9ox5fG8
 ---
 
 # Vega au secours de vos visualisation de données

@@ -1,8 +1,12 @@
 ---
+slides:
+- https://speaking.fred.dev/cX9DYB/personal-branding-for-developers-success-in-programming
 speakers:
 - Frédéric Harper
 topics:
 - Career
+videos:
+- https://www.youtube.com/watch?v=qAk2pmiyWJg
 ---
 
 # Success in Programming, Personal Branding for Developers

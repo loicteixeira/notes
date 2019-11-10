@@ -5,6 +5,8 @@ speakers:
 topics:
 - Big Data
 - AI
+videos:
+- https://www.youtube.com/watch?v=5fqhT82wghY
 ---
 
 # Apache Pulsar 101: Architecture, Concepts et Comparaison

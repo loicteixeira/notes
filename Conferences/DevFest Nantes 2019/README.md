@@ -1,3 +1,9 @@
+---
+videos:
+- https://www.youtube.com/watch?v=pAWB3AvYHQQ
+- https://www.youtube.com/watch?v=3ldMpBPvab4
+---
+
 # Devfest Nantes 2019
 
 ## Opening Keynote
